@@ -14,4 +14,3 @@ Scenario: E02-Registro de tiempo de publicación
  Given que las empresas desean poner un tiempo límite de las ofertas.
  When se dirigen a “publicar producto” y ingresa el tiempo mal y no presiona el botón de publicar
  Then Entonces el sistema indicará que el tiempo límite se pasó o es incorrecto.
-
